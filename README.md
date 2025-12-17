@@ -1,4 +1,4 @@
-# SpaceInvaders-C-
+# SpaceInvaders-CS
 Space Invaders made in C#
 
 // SPACE INVADERS IN C# --
