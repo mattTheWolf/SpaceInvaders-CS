@@ -1,9 +1,5 @@
-# SpaceInvaders-C-
-Space Invaders made in C#
-
 // SPACE INVADERS IN C# --
 // MADE BY MATII MERCADO (PINKU) 2019 - 2021
-// I'm liking C# :)
 
 //DON'T LET THE KING PINKU INVADE THE PLANET!
 
