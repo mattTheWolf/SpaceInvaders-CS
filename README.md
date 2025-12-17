@@ -8,21 +8,11 @@ Space Invaders made in C#
 
 // -- 3 LIVES -- //
 
-//For each missed shot you lose a life
-
-//As well if you shoot your own Cyan shields.
-
+//For each missed shot or a shot into your own Cyan shields you will lose a life
 
 // -- Enemies --//
 
-//If the King Pinku's troops are not eliminated
-
-//in time before their field get to your shields
-
-//it's a GAME OVER.
-
-//They'll make 5 vertical steps before so.
-
+//If the King Pinku's troops are not eliminated in time before their field get to your shields, it's a GAME OVER. They'll make 5 vertical steps before so.
 
 //GOOD LUCK!
 
