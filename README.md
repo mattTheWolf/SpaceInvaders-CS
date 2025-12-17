@@ -5,11 +5,13 @@ Space Invaders made in C#
 //DON'T LET THE KING PINKU INVADE THE PLANET!
 /MOVE:  [A], [D] | SHOOT: [L]
 
+
 // -- 3 LIVES -- //
 
 //For each missed shot you lose a life
 
 //As well if you shoot your own Cyan shields.
+
 
 // -- Enemies --//
 
@@ -20,6 +22,7 @@ Space Invaders made in C#
 //it's a GAME OVER.
 
 //They'll make 5 vertical steps before so.
+
 
 //GOOD LUCK!
 
